@@ -17,7 +17,8 @@ More specifically:
 - If the issue asks for it, fork 
 - Upload whatever needs to be uploaded (some issues need other issues ot be solved beforehand)
 - Create pull requests
-Note, all functions should be in one file, so that they can be loaded easily. </br>
+
+All functions should be in one file, so that they can be loaded easily in one go.
 
 ### Lastly
 You've received an email with different files which can be used for this collab. 
