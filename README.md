@@ -12,7 +12,7 @@ In the end, Wiep wants to be able to get some nice graphs based on timeseries wh
 So how do you go about this? Well, Octocat was so kind to write down the issues. Coding issues that is, not personal issues. You can find them in this repository, divide them amongst yourselves and solve them. </br>
 
 More specifically:
-- Create your own branch
+- Create your own branch 
 - If the issue asks for it, fork 
 - Upload whatever needs to be uploaded (some issues need other issues ot be solved beforehand)
 - Create pull requests
