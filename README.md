@@ -2,7 +2,6 @@
 
 Welcome to the repository of the Git workshop for the DECO LIBRARY!
 If we've made it this far, then now is the moment we'll start a little collaboration game. </br>
-Disclaimer : Wiep and Octocat had a (very short) talk, and decided that the workshop will be in Python.
 
 ## MAKE IT WORK
 ### Introduction
