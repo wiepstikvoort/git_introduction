@@ -13,7 +13,7 @@ So how do you go about this? Well, Octocat was so kind to write down the issues.
 
 More specifically:
 - Create your own branch 
-- If the issue asks for it, fork 
+- Choose an issue, work on it, solve it
 - Upload whatever needs to be uploaded
 - Create pull requests
 
